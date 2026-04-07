@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a Computer vision and geospatial Engineer with a focus on Structure-from-Motion, <br>3D reconstruction, AI and optical sensor data from Camera, UAV or Satellite. <br>I have several years of experience as project member, Teaching Assistant (TA) and mentor. <br><br>Overall Goal: The development of an algorithm based on a repeatable workflow/ <br>pipeline to solve a problem. <br><br>I am open for work. 
+I am a Computer vision and geospatial Engineer with a focus on Structure-from-Motion, 3D reconstruction, AI and optical sensor data from Camera, UAV or Satellite. I have several years of experience as project member, Teaching Assistant (TA) and mentor. <br> Overall Goal: The development of an algorithm based on a repeatable workflow/ <br>pipeline to solve a problem. <br><br>I am open for work. 
 
 
 ## 🌐 Socials:
