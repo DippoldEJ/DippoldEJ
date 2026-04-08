@@ -19,7 +19,7 @@ subgraph o[Scholar]
     end
 
  subgraph p[Human]
-    a([curiosity <br /> text  <br />  text])
+    a([Curiosity <br /> text  <br />  text])
     end
 
 style n color:#f66
