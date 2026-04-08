@@ -64,6 +64,6 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 ![Anaconda](https://img.shields.io/badge/Anacoda-%2376B900.svg?style=flat&logo=Anaconda&logoColor=green)
 ![OBS](https://img.shields.io/badge/OBS-990000?&logoColor=white&style=flat&logo=OBS)
 ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-white?&style=flat&logo=Jupyter)
-
+![Spyder](https://img.shields.io/badge/spyder-%23150458.svg?style=flat&logo=spyder&logoColor=white) 
 
 
