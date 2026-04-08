@@ -33,8 +33,7 @@ style h color:#FFFF00
 
 n-->o
 o-->p
-j-->r
-n-->r
+
 ```
 
 # 💫 About Me:
