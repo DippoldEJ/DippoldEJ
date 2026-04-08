@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
-I am a Computer vision and geospatial Engineer with a focus on Structure-from-Motion, 3D reconstruction, AI and optical sensor data from Camera, UAV or Satellite. I have several years of experience as project member, Teaching Assistant (TA) and mentor. <br><br>  Overall Goal: The development of an algorithm based on a repeatable workflow/ pipeline to solve a problem. <br><br> **I am open for work** 
-
 ```mermaid
 flowchart LR;
 %%{init: {
@@ -21,6 +18,10 @@ style n color:#f66
 
 
 ```
+
+# 💫 About Me:
+I am a Computer vision and geospatial Engineer with a focus on Structure-from-Motion, 3D reconstruction, AI and optical sensor data from Camera, UAV or Satellite. I have several years of experience as project member, Teaching Assistant (TA) and mentor. <br><br>  Overall Goal: The development of an algorithm based on a repeatable workflow/ pipeline to solve a problem. <br><br> **I am open for work** 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elisabeth-j-dippold) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCvNQFarpEajP9LFy4zD2nOwuse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elisabeth.dippold@gmail.com) 
