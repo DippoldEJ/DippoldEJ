@@ -12,11 +12,10 @@ flowchart LR;
         b[(fa:fa-table AI <br> Geospatial <br> Computer Vision)]
     end
 
-subgraph o[Indices]
+subgraph o[scholar]
         direction LR
-        j([NIR based like NDVI])
-        c([RGB based like NGRDI])
-        m([Red Edge, Deep Blue and others])
+        j([Optical Data Analysis <br> Feature Detection and Matching])
+
     end
  
 
