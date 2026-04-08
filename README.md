@@ -67,4 +67,4 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 ![iTerm2](https://img.shields.io/badge/iTerm2-%23F7931E.svg?style=flat) 
 ![Leaflet](https://img.shields.io/badge/Leaflet-6DA55F?style=flat&logo=Leaflet&logoColor=white) 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-657D8B?style=flat&logo=ArcGIS&logoColor=green)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+
