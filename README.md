@@ -12,7 +12,7 @@ direction LR;
         b[(fa:fa-table AI / ML <br> Geospatial <br> Computer Vision)]
     end
 
-subgraph o[Scholar]
+subgraph o["`**Scholar**`"]
 direction LR;
         j([Optical Data Analysis <br> Feature Detection <br> 3D Reconstruction <br> Image Translation])
 
