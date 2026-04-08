@@ -12,10 +12,19 @@ flowchart LR;
         b[(fa:fa-table AI <br> Geospatial <br> Computer Vision)]
     end
 
+subgraph o[Indices]
+        direction LR
+        j([NIR based like NDVI])
+        c([RGB based like NGRDI])
+        m([Red Edge, Deep Blue and others])
+    end
  
 
 style n color:#f66
+style o stroke-width:6px
+style o color:#77DD77
 
+n-->o
 
 ```
 
