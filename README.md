@@ -45,7 +45,7 @@ subgraph h[University Degrees]
 direction TD
     s[fa:fa-code Bachelor of Science ]
     b[fa:fa-code Master of Science ]
-    a[fa:fa-code Doctoral ]
+    a[fa:fa-code **Doctoral** ]
     end
 
 style h color:#FFFF00
