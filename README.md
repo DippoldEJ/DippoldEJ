@@ -64,7 +64,7 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 
 <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/6b477cd4-6623-477e-8a99-c89c7147ba2b" />
 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=https://github.com/user-attachments/assets/6b477cd4-6623-477e-8a99-c89c7147ba2b)
 ![Anaconda](https://img.shields.io/badge/Anacoda-%2376B900.svg?style=flat&logo=Anaconda&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS-990000?&logoColor=white&style=flat&logo=OBS)
 ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-white?&style=flat&logo=Jupyter)
@@ -72,4 +72,4 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 ![iTerm2](https://img.shields.io/badge/iTerm2-%23F7931E.svg?style=flat) 
 ![Leaflet](https://img.shields.io/badge/Leaflet-6DA55F?style=flat&logo=Leaflet&logoColor=white) 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-657D8B?style=flat&logo=ArcGIS&logoColor=green)
-
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
