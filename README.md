@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 **I am open for work** 
 
 ```mermaid
 flowchart LR;
