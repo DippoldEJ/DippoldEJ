@@ -7,7 +7,7 @@ flowchart LR;
 	}
 }%%
 
-subgraph n[**Engineer**]
+subgraph n["`**Engineer**`"]
 direction LR;
         b[(fa:fa-table AI / ML <br> Geospatial <br> Computer Vision)]
     end
