@@ -63,6 +63,7 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 
 
 <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/6b477cd4-6623-477e-8a99-c89c7147ba2b" />
+<img width="585" height="170" alt="Image" src="https://github.com/user-attachments/assets/98c5aebe-5aad-4f67-acdc-0298c6973684" />
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=https://github.com/user-attachments/assets/7496f721-c6fb-4c59-8519-5d4802375317)
 ![Anaconda](https://img.shields.io/badge/Anacoda-%2376B900.svg?style=flat&logo=Anaconda&logoColor=white)
