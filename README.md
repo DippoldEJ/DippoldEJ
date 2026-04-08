@@ -18,15 +18,15 @@ subgraph o[Scholar]
 
     end
 
+ subgraph q[University Degrees]
+        r[(fa:fa-table Red, Green, Blue)]
+        h[(fa:fa-table NIR, Red Edge, Deep Blue)]
+    end
+
  subgraph p[Human]
     a([Curiosity <br /> text  <br />  text])
     end
 
- subgraph q[University Degrees]
-        direction LR
-        r[(fa:fa-table Red, Green, Blue)]
-        h[(fa:fa-table NIR, Red Edge, Deep Blue)]
-    end
 
 style n color:#f66
 style o stroke-width:6px
@@ -37,6 +37,7 @@ style q color:#FFFF00
 n-->o
 o-->p
 o-->q
+
 ```
 
 # 💫 About Me:
