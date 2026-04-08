@@ -7,7 +7,7 @@ flowchart LR;
 	}
 }%%
 
-subgraph n["`part of heading in **bold**`"]
+subgraph n[Engineer]
 direction LR;
         b[(fa:fa-table AI / ML <br> Geospatial <br> Computer Vision)]
     end
@@ -23,7 +23,7 @@ direction LR;
     a[(fa:fa-table Curiosity <br> text <br> text)]
     end
 
-style n color:#f66
+style n color:#f66, stroke-width:4px
 style o stroke-width:6px
 style o color:#77DD77
 style p color:#2798F5
