@@ -21,7 +21,6 @@ subgraph o[Scholar]
     end
 
  subgraph h[University Degrees]
-direction TD;
         r[(fa:fa-table Red, Green, Blue)]
     end
 
