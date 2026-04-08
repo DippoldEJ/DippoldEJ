@@ -67,5 +67,5 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 ![Spyder](https://img.shields.io/badge/spyder-%23150458.svg?style=flat&logo=spyder&logoColor=white) 
 ![iTerm2](https://img.shields.io/badge/iTerm2-%23F7931E.svg?style=flat) 
 ![Leaflet](https://img.shields.io/badge/Leaflet-6DA55F?style=flat&logo=Leaflet&logoColor=white) 
-[ArcGIS](https://img.shields.io/badge/ArcGIS-657D8B?style=flat)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-657D8B?style=flat)
 
