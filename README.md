@@ -41,7 +41,7 @@ flowchart LR;
 	}
 }%%
 
-subgraph h[University Degrees]
+subgraph h["`**University Degrees**`"]
 direction TD
     s[fa:fa-code Bachelor of Science ]
     b[fa:fa-code Master of Science ]
