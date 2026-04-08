@@ -14,7 +14,7 @@ direction LR;
 
 subgraph o[Scholar]
 direction LR;
-        j([Optical Data Analysis <br> Feature Detection <br> text])
+        j([Optical Data Analysis <br> Feature Detection <br> 3D REconstruction <br> Image Translation])
 
     end
 
