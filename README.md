@@ -7,7 +7,7 @@ flowchart LR;
 	}
 }%%
 
-subgraph n["`part of heading in **bold**`"]
+subgraph n["`part of heading in **Engineer**`"]
 direction LR;
         b[(fa:fa-table AI / ML <br> Geospatial <br> Computer Vision)]
     end
