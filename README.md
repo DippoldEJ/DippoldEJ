@@ -23,16 +23,11 @@ direction LR;
     a([Curiosity <br /> text  <br />  text])
     end
 
- subgraph h[University Degrees]
-direction TD;
-        r[(fa:fa-table Red, Green, Blue)]
-    end
-
 style n color:#f66
 style o stroke-width:6px
 style o color:#77DD77
 style p color:#2798F5
-style h color:#FFFF00
+
 
 n-->o
 o-->p
@@ -50,6 +45,7 @@ flowchart LR;
 direction TD;
         r[(fa:fa-table Red, Green, Blue)]
     end
+style h color:#FFFF00
 ```
 
 # 💫 About Me:
