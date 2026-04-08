@@ -1,7 +1,7 @@
 ## Hi there 👋 , **I am open for work** 
 
 ```mermaid
-flowchart TD;
+flowchart LR;
 %%{init: {
 	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
 	}
