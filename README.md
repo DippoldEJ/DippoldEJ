@@ -7,14 +7,14 @@ flowchart LR;
 	}
 }%%
 
- subgraph n[Engineer]
+subgraph n[Engineer]
         direction LR
         b[(fa:fa-table AI <br> Geospatial <br> Computer Vision)]
     end
 
-subgraph o[scholar]
+subgraph o[Scholar]
         direction LR
-        j([Optical Data Analysis <br> Feature Detection and Matching])
+        j([Optical Data Analysis <br> Feature Detection & Matching <br> text])
 
     end
  
