@@ -20,7 +20,7 @@ direction LR;
 
  subgraph p[Human]
   direction LR;
-    a[(fa:fa-table AI <br> Geospatial <br> Computer Vision)]
+    a[(fa:fa-table Curiosity <br> text <br> text)]
     end
 
 style n color:#f66
