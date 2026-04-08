@@ -9,7 +9,7 @@ flowchart LR;
 
  subgraph n[Engineer]
         direction LR
-        b[(fa:fa-table Geospatial <br> Computer Vision)]
+        b[(fa:fa-table AI <br> Geospatial <br> Computer Vision)]
     end
 
  
