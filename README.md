@@ -23,7 +23,7 @@ direction LR;
     a[(fa:fa-table Curiosity <br> text <br> text)]
     end
 
-style n color:#f66, stroke-width:4px
+style n color:#f66, stroke-width:8px
 style o stroke-width:6px
 style o color:#77DD77
 style p color:#2798F5
