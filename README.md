@@ -17,14 +17,18 @@ subgraph o[Scholar]
         j([Optical Data Analysis <br> Feature Detection <br> text])
 
     end
- 
+
+ subgraph p[Area of Interest]
+    a([rural <br /> urban  <br />  misc])
+    end
 
 style n color:#f66
 style o stroke-width:6px
 style o color:#77DD77
+style p color:#2798F5
 
 n-->o
-
+o-->p
 ```
 
 # 💫 About Me:
