@@ -18,7 +18,7 @@ direction LR;
 
     end
 
- subgraph p[Human]
+ subgraph p["`**Human**`"]
   direction LR;
     a[(fa:fa-table Curiosity <br> text <br> text)]
     end
