@@ -1,26 +1,30 @@
 ## Hi there 👋 , **I am open for work** 
 
 ```mermaid
-flowchart LR;
+flowchart TD;
 %%{init: {
 	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
 	}
 }%%
 
 subgraph n[Engineer]
+direction LR;
         b[(fa:fa-table AI <br> Geospatial <br> Computer Vision)]
     end
 
 subgraph o[Scholar]
+direction LR;
         j([Optical Data Analysis <br> Feature Detection <br> text])
 
     end
 
  subgraph p[Human]
+  direction LR;
     a([Curiosity <br /> text  <br />  text])
     end
 
  subgraph h[University Degrees]
+direction TD;
         r[(fa:fa-table Red, Green, Blue)]
     end
 
