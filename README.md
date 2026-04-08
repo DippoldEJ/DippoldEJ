@@ -39,6 +39,19 @@ o-->p
 
 ```
 
+```mermaid
+flowchart LR;
+%%{init: {
+	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
+	}
+}%%
+
+ subgraph h[University Degrees]
+direction TD;
+        r[(fa:fa-table Red, Green, Blue)]
+    end
+```
+
 # 💫 About Me:
 I am a Computer vision and geospatial Engineer with a focus on Structure-from-Motion, 3D reconstruction, AI and optical sensor data from Camera, UAV or Satellite. I have several years of experience as project member, Teaching Assistant (TA) and mentor. <br><br>  Overall Goal: The development of an algorithm based on a repeatable workflow/ pipeline to solve a problem. <br><br> **I am open for work** 
 
