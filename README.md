@@ -43,8 +43,8 @@ flowchart LR;
 
 subgraph h[University Degrees]
 direction TD
-    s[fa:fa-code Pleiades]
-    a[fa:fa-code Pleiades Neo]
+    s[fa:fa-code Bachelor of Science ]
+    a[fa:fa-code Master of Science ]
     end
 
 style h color:#FFFF00
