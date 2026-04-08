@@ -21,6 +21,7 @@ subgraph o[Scholar]
     end
 
  subgraph h[University Degrees]
+flowchart tb
         r[(fa:fa-table Red, Green, Blue)]
     end
 
