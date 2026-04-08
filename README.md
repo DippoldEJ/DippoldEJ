@@ -20,7 +20,7 @@ direction LR;
 
  subgraph p[Human]
   direction LR;
-    a([Curiosity <br /> text  <br />  text])
+    a([fa:fa-table Curiosity <br /> text  <br />  text])
     end
 
 style n color:#f66
