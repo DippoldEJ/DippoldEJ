@@ -65,5 +65,5 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 ![OBS](https://img.shields.io/badge/OBS-990000?&logoColor=white&style=flat&logo=OBS)
 ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-white?&style=flat&logo=Jupyter)
 ![Spyder](https://img.shields.io/badge/spyder-%23150458.svg?style=flat&logo=spyder&logoColor=white) 
-![iTerm2](https://img.shields.io/badge/iTerm2-%23F7931E.svg?style=flat&logo=iTerm2) 
+![iTerm2](https://img.shields.io/badge/iTerm2-%23F7931E.svg?style=flat) 
 
