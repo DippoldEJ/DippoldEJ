@@ -14,7 +14,7 @@ subgraph n[Engineer]
 
 subgraph o[Scholar]
         direction LR
-        j([Optical Data Analysis <br> Feature Detection & Matching <br> text])
+        j([Optical Data Analysis <br> Feature Detection <br> text])
 
     end
  
