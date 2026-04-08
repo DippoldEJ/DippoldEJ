@@ -18,8 +18,8 @@ subgraph o[Scholar]
 
     end
 
- subgraph p[Area of Interest]
-    a([rural <br /> urban  <br />  misc])
+ subgraph p[Human]
+    a([curiosity <br /> text  <br />  text])
     end
 
 style n color:#f66
