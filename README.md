@@ -63,8 +63,12 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 
 
 <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/6b477cd4-6623-477e-8a99-c89c7147ba2b" />
+![Image](https://github.com/user-attachments/assets/7496f721-c6fb-4c59-8519-5d4802375317)
 
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="24" height="24">
+  <!-- Rounded Square Background -->
+  <path fill="currentColor" d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-23.1.2-43 0-13.9-4.7-23-10-27.7 33-3.7 67.7-16.1 67.7-73 0-16.2-5.7-29.4-15.2-39.8 1.5-3.7 6.6-18.8-1.5-39.3 0 0-12.4-4-40.7 15.2-11.8-3.3-24.5-4.9-37-4.9-12.5 0-25.2 1.6-37 4.9-28.3-19.2-40.7-15.2-40.7-15.2-8.1 20.5-3 35.6-1.5 39.3-9.5 10.4-15.2 23.6-15.2 39.8 0 57 34.6 69.3 67.6 73-4.2 3.7-8 10.3-9.3 20-8.4 3.7-29.8 10.3-43-12.3-8.3-14.3-23.7-15.3-23.7-15.3-15.1-.2-1 9.4-1 9.4 10.1 4.7 17.1 22.8 17.1 22.8 9.1 27.7 52.4 18.3 52.4 18.3 0 11.5.2 21 .2 24.3 0 4.3-3.1 9.5-11.5 8C110.8 395.2 32 312.6 32 214.2c0-99.4 80.6-180 180-180s180 80.6 180 180c0 98.4-78.8 181-180.7 201.5z"/>
+</svg>
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=https://github.com/user-attachments/assets/7496f721-c6fb-4c59-8519-5d4802375317)
 ![Anaconda](https://img.shields.io/badge/Anacoda-%2376B900.svg?style=flat&logo=Anaconda&logoColor=white)
