@@ -3,7 +3,7 @@
 ```mermaid
 flowchart LR;
 %%{init: {
-	'themeVariables': { 'fontSize': '14px', 'fontFamily': 'Didot'}
+	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
 	}
 }%%
 
@@ -37,7 +37,7 @@ o-->p
 ```mermaid
 flowchart LR;
 %%{init: {
-	'themeVariables': { 'fontSize': '12px', 'fontFamily': 'Didot'}
+	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
 	}
 }%%
 
