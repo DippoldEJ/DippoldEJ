@@ -56,6 +56,7 @@ I am a Computer vision and geospatial Engineer with a focus on Structure-from-Mo
 
 
 ## 🌐 Socials:
+[<img width="75" height="18" alt="image" src="https://github.com/user-attachments/assets/13ba2e5a-0585-4748-b391-affdb284938e" />](https://www.researchgate.net/profile/Elisabeth-Dippold)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisabeth-j-dippold) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCvNQFarpEajP9LFy4zD2nOwuse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elisabeth.dippold@gmail.com) [<img width="75" height="18" alt="image" src="https://github.com/user-attachments/assets/13ba2e5a-0585-4748-b391-affdb284938e" />](https://www.researchgate.net/profile/Elisabeth-Dippold)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elisabeth.dippold@gmail.com) 
 
 # 💻 Tech Stack:
