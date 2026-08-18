@@ -20,7 +20,7 @@ direction LR;
 
  subgraph p["`**Human**`"]
   direction LR;
-    a[(fa:fa-table Curiosity <br> text <br> text)]
+    a[(fa:fa-table Analytical <br> Curiosity <br> Adaptability)]
     end
 
 style n color:#f66
